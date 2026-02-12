@@ -1,4 +1,4 @@
-Sistema de Cadastro de Usuários
+Sistema de Cadastro de Usuários -- Java
 
 Sistema simples de cadastro de usuários desenvolvido em Java, utilizando Programação Orientada a Objetos (POO) e ArrayList. O sistema permite cadastrar, listar, buscar e remover usuários por meio de um menu interativo no console.
 
